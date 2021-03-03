@@ -3,8 +3,9 @@ from bs4 import BeautifulSoup
 
 
 def get_gpus():
-    # 3080  https://www.jimms.fi/fi/Product/List/000-1SZ/komponentit--naytonohjaimet--geforce-rtx-pelaamiseen--rtx-3080?i=100&ob=6
+    # EDIT THIS
     URL = "https://www.jimms.fi/fi/Product/List/000-1T0/komponentit--naytonohjaimet--geforce-rtx-pelaamiseen--rtx-3090?i=100&ob=6"
+    # STOP EDITING HERE
     p = requests.get(URL)
 
     soup = BeautifulSoup(p.content, "html.parser")
