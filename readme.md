@@ -4,6 +4,7 @@
 ![](https://img.shields.io/github/forks/antoKeinanen/JimmsCrawler)
 ![](https://img.shields.io/github/release/antoKeinanen/JimmsCrawler) 
 ![](https://img.shields.io/github/issues/antoKeinanen/JimmsCrawler)
+[![Run on Repl.it](https://repl.it/badge/github/antoKeinanen/chessAi)](https://repl.it/github/antoKeinanen/chessAi)
 
 ## Installation
 Enter the following commands to in commandline or shell.
